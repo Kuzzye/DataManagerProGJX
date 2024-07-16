@@ -1,0 +1,25 @@
+{
+  "name": "datamanagerprogjx",
+  "version": "1.0.0",
+  "description": "A simple CRUD application for managing data using Node.js and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kuzzye/DataManagerProGJX.git"
+  },
+  "author": "Kevin Chepe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kuzzye/DataManagerProGJX/issues"
+  },
+  "homepage": "https://github.com/Kuzzye/DataManagerProGJX#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1"
+  }
+}
