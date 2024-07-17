@@ -1,6 +1,6 @@
 # DataManagerProGJX
 
-DataManager Pro es una aplicación de ejemplo que permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en una base de datos MongoDB utilizando Node.js y Docker. Esta aplicación está diseñada para demostrar buenas prácticas en el desarrollo de software y el uso de contenedores Docker.
+DataManager Pro es una aplicación web de ejemplo que permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en una base de datos MongoDB utilizando Node.js y Docker. Esta aplicación está diseñada para demostrar buenas prácticas en el desarrollo de software y el uso de contenedores Docker.
 
 ## Contenidos
 
